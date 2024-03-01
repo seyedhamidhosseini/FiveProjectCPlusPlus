@@ -48,6 +48,8 @@ or
 Enter your choice: 3 ,
 Enter the size of the shape: 5
 
+Output:
+
 ![1](https://github.com/seyedhamidhosseini/FiveProjectCPlusPlus/assets/84787916/ad25d3![1](https://github.com/seyedhamidhosseini/FiveProjectCPlusPlus/assets/84787916/ad25d3a7-bded-49df-b956-de088dca312c)a7-bded-49df-b956-de088dca312c)
 
 
