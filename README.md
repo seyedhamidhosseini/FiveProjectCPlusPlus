@@ -35,17 +35,17 @@ Choose a shape:
 3. Shape 3
 
 
-Enter your choice: 1
+Enter your choice: 1 ,
 Enter the size of the shape: 5
 
 or
 
-Enter your choice: 2
+Enter your choice: 2 ,
 Enter the size of the shape: 5
 
 or
 
-Enter your choice: 3
+Enter your choice: 3 ,
 Enter the size of the shape: 5
 
 ![1](https://github.com/seyedhamidhosseini/FiveProjectCPlusPlus/assets/84787916/ad25d3![1](https://github.com/seyedhamidhosseini/FiveProjectCPlusPlus/assets/84787916/ad25d3a7-bded-49df-b956-de088dca312c)a7-bded-49df-b956-de088dca312c)
