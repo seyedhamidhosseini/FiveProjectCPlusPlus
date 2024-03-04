@@ -66,13 +66,12 @@ Output:
 که مسئول پذیرش به راحتی بتواند وارد بخشهای مختلف برنامه شود.
 
 
-
+Input:
 Hotel Management System
 1. Register a Customer
 2. Calculate Total Cost for a Customer
 3. Display Customer Information
 4. Exit
-Input:
 Enter your choice: 1
 Enter customer details:
 Name: ali
