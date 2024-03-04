@@ -65,14 +65,14 @@ Output:
 بوده اند را به صورت یکجا مشاهده کنیم. برنامه میبایست دارای منوی کاربرپسندی باشد
 که مسئول پذیرش به راحتی بتواند وارد بخشهای مختلف برنامه شود.
 
-Input:
+
 
 Hotel Management System
 1. Register a Customer
 2. Calculate Total Cost for a Customer
 3. Display Customer Information
 4. Exit
-5. 
+Input:
 Enter your choice: 1
 Enter customer details:
 Name: ali
@@ -83,13 +83,11 @@ Companion Name: hamid
 Check-in Date: 3
 Does the customer have a car? (Y/N): y
 Hotel Management System
-
 1. Register a Customer
 2. Calculate Total Cost for a Customer
 3. Display Customer Information
 4. Exit
 Enter your choice: 2
-
 Output:
 Enter the index of the customer: 0
 Total cost for customer 0: 170000 Toman
