@@ -73,15 +73,25 @@ Hotel Management System
 3. Display Customer Information
 4. Exit
 Enter your choice: 1
+
 Enter customer details:
+
 Name: ali
+
 Last Name: moradi
+
 Phone Number: 09184700102
+
 Stay Duration (days): 2
+
 Companion Name: hamid
+
 Check-in Date: 3
+
 Does the customer have a car? (Y/N): y
+
 Hotel Management System
+
 1. Register a Customer
 2. Calculate Total Cost for a Customer
 3. Display Customer Information
