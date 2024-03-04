@@ -112,4 +112,46 @@ Total cost for customer 0: 170000 Toman
 و استفاده از توابع آماده در این زمینه مجاز نیست. ماشین حساب نوشته شده باید دارای منوی مناسب و کاربرپسندی باشد 
 به نحوی که پس از انجام یک عملیات مانند عمل جمع بتواند باز هم عملیات دیگری انجام داده و برنامه بسته نشود.
 
+Input:
+
+Choose an operation:
+
+1. Add
+   
+3. Subtract
+   
+5. Multiply
+   
+7. Divide
+   
+9. Power
+    
+11. Factorial
+    
+13. Sine
+    
+15. Cosine
+    
+17. Tangent
+    
+19. Arcsine
+    
+21. Arccosine
+    
+23. Arctangent
+    
+25. Logarithm
+    
+27. Square Root
+    
+29. Cube Root
+    
+31. Exit
+    
+Enter your choice: 6
+
+Enter the number: 5
+
+Result: 120
+
 -----------------------------------------------------------------------------
